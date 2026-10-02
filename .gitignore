@@ -1,0 +1,7 @@
+.DS_Store
+AIxVR2027_SENSE-XR_proposal.docx
+AIxVR2027_SENSE-XR_proposal.pdf
+.env
+.env.*
+node_modules/
+.qa/
