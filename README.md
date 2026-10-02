@@ -29,7 +29,6 @@ Deployment status is available in the repository's Actions tab and Settings → 
 
 ## Content to finalize
 
-- Confirm the proposed November 20 submission and December 4 notification dates.
 - Add the workshop-specific EasyChair submission URL when available.
 - Add the assigned workshop date, time, and room.
 - Add confirmed speakers and accepted papers once the conference schedule is finalized.
@@ -39,3 +38,5 @@ The December 15 camera-ready deadline, January 25–27 conference dates, UBC Rob
 The original proposal documents are intentionally ignored by Git and are not part of the public website. Google Fonts is used for typography, with local sans-serif fallbacks.
 
 The public submission policies follow the organizer guide. The original logo archive and organizer guide remain local; only the selected conference logo in `assets/` is published.
+
+Confirmed workshop deadlines: paper submission November 23, 2026; author notification December 4, 2026; camera-ready December 15, 2026.
