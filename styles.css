@@ -18,3 +18,5 @@ h2{font-size:30px;letter-spacing:-.025em;margin-bottom:22px}
 .schedule li{grid-template-columns:190px 1fr;padding:12px 0}.schedule li>span:first-child{padding:0}.schedule-heading{padding-bottom:12px}
 .contact-block{padding-left:35px}.visit{padding-top:46px;padding-bottom:36px}.visit a{color:var(--lime)}.visit p{margin-bottom:10px}
 @media(max-width:760px){.hero{grid-template-columns:1fr;padding-top:36px;gap:30px}.hero h1{font-size:42px}.loop-panel{min-height:340px}.loop-center{min-height:310px}.section{padding-block:34px}.submissions{grid-template-columns:1fr}.schedule li{grid-template-columns:105px 1fr}.contact-block{padding:24px 0 0}.visit{gap:20px}h2{font-size:27px}}
+
+.conference-logo{display:block;width:270px;max-width:85%;margin-bottom:22px}.conference-logo img{display:block;width:100%;height:auto}.submission-policies{padding-left:20px;font-size:15px;color:var(--muted)}.submission-policies li{margin-bottom:10px}.conduct-note{padding:22px 5% 0;max-width:1600px;margin:auto}.conduct-note p{font-size:13px;color:var(--muted);margin:0}.program>p{max-width:1000px}

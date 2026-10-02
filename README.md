@@ -32,8 +32,10 @@ Deployment status is available in the repository's Actions tab and Settings → 
 - Confirm the proposed November 20 submission and December 4 notification dates.
 - Add the workshop-specific EasyChair submission URL when available.
 - Add the assigned workshop date, time, and room.
-- Replace the provisional program with confirmed speakers and accepted papers.
+- Add confirmed speakers and accepted papers once the conference schedule is finalized.
 
 The December 15 camera-ready deadline, January 25–27 conference dates, UBC Robson Square venue, and workshop listing were checked against the official AIxVR 2027 website on October 1, 2026. Other workshop content comes from the supplied proposal. Unconfirmed speakers and program committee invitations are not published.
 
 The original proposal documents are intentionally ignored by Git and are not part of the public website. Google Fonts is used for typography, with local sans-serif fallbacks.
+
+The public submission policies follow the organizer guide. The original logo archive and organizer guide remain local; only the selected conference logo in `assets/` is published.
