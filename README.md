@@ -27,9 +27,10 @@ git push origin main
 
 Deployment status is available in the repository's Actions tab and Settings → Pages.
 
+Submissions are open through https://easychair.org/conferences/?conf=ieeeaixvr2027; authors should select the SENSE-XR workshop track.
+
 ## Content to finalize
 
-- Add the workshop-specific EasyChair submission URL when available.
 - Add the assigned workshop date, time, and room.
 - Add confirmed speakers and accepted papers once the conference schedule is finalized.
 
